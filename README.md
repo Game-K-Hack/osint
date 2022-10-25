@@ -2,26 +2,26 @@
     <img src="https://raw.githubusercontent.com/Game-K-Hack/osint/main/logo.png" width=150 />
 </p>
 
-## Définition
+## Definition
 
-Le renseignement d'origine sources ouvertes est le recueil et l'analyse d'information obtenue à partir de source d'information publique. Il est principalement utilisé dans le cadre d'activités liées à la sécurité nationale, l'application de la loi et l'intelligence économique dans le secteur privé. L'ensemble hétéroclite de ces pratiques d’investigation provient de « la pluralité des définitions de l’enquête Osint, en fonction de sa pratique par des journalistes, des magistrats, des chercheurs ou des activistes ».
+Open source intelligence is the collection and analysis of information obtained from public information sources. It is mainly used for activities related to national security, law enforcement and economic intelligence in the private sector. The heterogeneous set of these investigative practices comes from "the plurality of definitions of the Osint investigation, according to its practice by journalists, magistrates, researchers or activists".
 
-Les sources de l'OSINT peuvent être divisées en six catégories différentes de flux d'informations :
+OSINT sources can be divided into six different categories of information flow:
 
-* Les médias, journaux imprimés, magazines, radios, chaînes de télévision dans les différents pays ;
-* Internet, les publications en ligne, les blogs, les groupes de discussion, les médias citoyens, YouTube et autres réseaux sociaux ;
-* Les données gouvernementales, rapports, budgets, auditions, annuaires, conférences de presse, sites web officiels et discours. Ces informations proviennent de sources officielles, mais sont bien publiquement accessibles et peuvent être utilisées librement et gratuitement ;
-* Les publications professionnelles et académiques, provenant de revues académiques, conférences, publications et thèses ;
-* Les données commerciales, imagerie satellite, évaluations financières et industrielles et bases de données ;
-* La littérature grise, rapports techniques, prépublications, brevets, documents de travail, documents commerciaux, travaux non publiés et lettres d'information.
+* The media, printed newspapers, magazines, radios, television channels in the different countries;
+* Internet, online publications, blogs, discussion groups, citizen media, YouTube and other social networks;
+* Government data, reports, budgets, hearings, directories, press conferences, official websites and speeches. This information comes from official sources, but is publicly accessible and can be used freely and free of charge;
+* Professional and academic publications, from academic journals, conferences, publications and theses;
+* Commercial data, satellite imagery, financial and industrial assessments and databases;
+* Gray literature, technical reports, preprints, patents, working papers, trade documents, unpublished works and newsletters.
 
-Le renseignement d'origine sources ouvertes est différent de la recherche car il applique le processus associé au cycle du renseignement dans un but de recherche d'information pour répondre à des tâches spécifiques ou en support à la prise de décision, et non d'acquisition de connaissances.
+Open source intelligence is different from research because it applies the process associated with the intelligence cycle for the purpose of seeking information to respond to specific tasks or in support of decision-making, and not acquisition. of knowledge.
 
 ## Site
 
-Pour le moment, le script cherche le pseudo seulement sur `linktr.ee`. Mais d'autre librairie vont arriver...
+For the moment, the script looks for the nickname only on `linktr.ee`. But other bookstores will arrive...
 
-## Commande
+## Command
 
 ```
  ▄██████▄     ▄████████  ▄█  ███▄▄▄▄       ███
