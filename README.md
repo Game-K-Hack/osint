@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/static/v1?label=release&message=v1.0&color=blue" alt="Release - v1.2" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/static/v1?label=version&message=stable&color=green" alt="Version - Unstable" />
+    <img src="https://img.shields.io/static/v1?label=version&message=stable&color=green" alt="Version - stable" />
   </a>
   <a href="https://choosealicense.com/licenses/mit">
     <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License" />
